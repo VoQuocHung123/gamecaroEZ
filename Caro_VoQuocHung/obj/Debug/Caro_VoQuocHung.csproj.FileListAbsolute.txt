@@ -1,0 +1,10 @@
+D:\C#\Caro_VoQuocHung\Caro_VoQuocHung\bin\Debug\Caro_VoQuocHung.exe.config
+D:\C#\Caro_VoQuocHung\Caro_VoQuocHung\bin\Debug\Caro_VoQuocHung.exe
+D:\C#\Caro_VoQuocHung\Caro_VoQuocHung\bin\Debug\Caro_VoQuocHung.pdb
+D:\C#\Caro_VoQuocHung\Caro_VoQuocHung\obj\Debug\Caro_VoQuocHung.csproj.AssemblyReference.cache
+D:\C#\Caro_VoQuocHung\Caro_VoQuocHung\obj\Debug\Caro_VoQuocHung.frmQuocHung.resources
+D:\C#\Caro_VoQuocHung\Caro_VoQuocHung\obj\Debug\Caro_VoQuocHung.Properties.Resources.resources
+D:\C#\Caro_VoQuocHung\Caro_VoQuocHung\obj\Debug\Caro_VoQuocHung.csproj.GenerateResource.cache
+D:\C#\Caro_VoQuocHung\Caro_VoQuocHung\obj\Debug\Caro_VoQuocHung.csproj.CoreCompileInputs.cache
+D:\C#\Caro_VoQuocHung\Caro_VoQuocHung\obj\Debug\Caro_VoQuocHung.exe
+D:\C#\Caro_VoQuocHung\Caro_VoQuocHung\obj\Debug\Caro_VoQuocHung.pdb
